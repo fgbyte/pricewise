@@ -1,5 +1,5 @@
 import Navbar from '@/components/Navbar'
-import type { Metadata } from 'next'
+// import type { Metadata } from 'next'
 import { Inter, Space_Grotesk } from 'next/font/google'
 import './globals.css'
 
